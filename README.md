@@ -1,2 +1,2 @@
 # depot
-a depot for the ROR prectice
+A depot for the ROR prectice.
